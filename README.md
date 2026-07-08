@@ -124,6 +124,6 @@ Highlights:
 
 # 📫 Connect
 
-LinkedIn: linkedin.com/in/james-finn-travers
+LinkedIn: [linkedin.com/in/james-finn-travers](https://www.linkedin.com/in/james-finn-travers/)
 
 Email: jamesfinntravers@gmail.com
