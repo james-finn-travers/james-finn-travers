@@ -120,6 +120,11 @@ Highlights:
 * Cloud-native infrastructure
 * Large-scale data systems
 
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide=html,css)
+
 ---
 
 # 📫 Connect
