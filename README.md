@@ -123,10 +123,6 @@ Highlights:
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=james-finn-travers&layout=compact&hide=html,css)
-
----
-
 # 📫 Connect
 
 LinkedIn: [linkedin.com/in/james-finn-travers](https://www.linkedin.com/in/james-finn-travers/)
